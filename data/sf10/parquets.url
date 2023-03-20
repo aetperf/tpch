@@ -1,0 +1,8 @@
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/customer.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/lineitem.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/nation.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/orders.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/part.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/partsupp.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/supplier.parquet
+https://apshare1.s3-eu-west-1.amazonaws.com/tpch/sf10/parquet/region.parquet    
